@@ -1,0 +1,17 @@
+black==20.8b1
+dvc==2.1.0
+flake8==3.9.1
+flake8-bugbear==20.11.1
+flake8-docstrings==1.6.0
+graphviz==0.14.2
+jupyter==1.0.0
+hyperopt==0.2.5
+matplotlib==3.2.1
+mlflow==1.11.0
+numpy==1.18.2
+pandas==1.0.3
+pre-commit==2.12.1
+scikit-learn==0.22.2
+shap==0.39.0
+xgboost==1.2.0
+xlrd>=1.0.0

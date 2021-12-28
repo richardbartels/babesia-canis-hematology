@@ -1,0 +1,10 @@
+name: babesia
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.7
+  - pip:
+    - -r requirements.txt
+
